@@ -1,0 +1,31 @@
+.header{
+  height: 80px;
+  background-color:rgb(33, 33, 43);
+  color: #fcfafa;
+  align-items: center;
+  width: 1500px;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 50px;
+  padding-right: 50px;
+ 
+
+}
+nav.header a{
+  text-decoration: none;
+  color: #fcfafa;
+  margin-left: 50px;
+  font-size: 15px;
+  padding-right: 10px;
+  
+  
+ 
+}
+nav.header a:hover{
+  transition-duration: 02s;
+  text-decoration: none;
+  color: #e2a625;
+  font-size: 18px;
+  
+ 
+}
