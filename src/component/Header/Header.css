@@ -3,7 +3,7 @@
   background-color:rgb(33, 33, 43);
   color: #fcfafa;
   align-items: center;
-  width: 1500px;
+  width: 100%;
   display: flex;
   justify-content: space-between;
   padding-left: 50px;
@@ -22,7 +22,7 @@ nav.header a{
  
 }
 nav.header a:hover{
-  transition-duration: 02s;
+  transition-duration: 01s;
   text-decoration: none;
   color: #e2a625;
   font-size: 18px;
